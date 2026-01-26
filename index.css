@@ -12,9 +12,7 @@ body {
   width: 694px;
 }
 header {
-	background-image: url("/image/header_icon.png");
-	width: auto
-	heigth: 256px
+	background-color: #214555;
 }
 #head-inner {
     padding: 25px 0;
