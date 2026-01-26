@@ -13,6 +13,8 @@ body {
 }
 header {
 	background-image: url("/image/header_icon.png");
+	width: auto
+	heigth: 256px
 }
 #head-inner {
     padding: 25px 0;
