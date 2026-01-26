@@ -12,7 +12,7 @@ body {
   width: 694px;
 }
 header {
-	background-image: url("/shared-assets/images/examples/lizard.png");
+	background-image: url("image/header_icon.png");
 }
 #head-inner {
     padding: 25px 0;
